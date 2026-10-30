@@ -183,13 +183,6 @@ http://localhost:3000
 * Better conversation management.
 * Enhanced user interface and experience.
 
-## Original Project Attribution
-
-This project is based on the original AI Document Chatbot project by **Aylin Kars**.
-
-Original repository: https://github.com/karsayli/ai-document-chatbot
-
-DocuMind includes modifications and customizations to the original project. Original license terms and applicable attribution notices should be preserved.
 
 ## Maintainer
 
