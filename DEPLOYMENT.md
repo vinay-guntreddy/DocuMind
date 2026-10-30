@@ -14,8 +14,8 @@ This document describes how to deploy the Document Chatbot application using Doc
 
 1. **Clone the repository:**
    ```bash
-   git clone https://gitlab.fit.cvut.cz/karsayli/sp2.git
-   cd sp2
+   git clone https://github.com/vinay-guntreddy/DocuMind.git
+   cd DocuMind
    ```
 
 2. **Create environment file:**

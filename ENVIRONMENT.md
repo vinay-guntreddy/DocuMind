@@ -179,8 +179,8 @@ npm install
 1. **Install Docker and Docker Compose**
 2. **Clone repository:**
    ```bash
-   git clone https://gitlab.fit.cvut.cz/karsayli/sp2.git
-   cd sp2
+   git clone https://github.com/vinay-guntreddy/DocuMind.git
+   cd DocuMind
    ```
 3. **Configure environment:**
    ```bash

@@ -13,8 +13,10 @@ NC='\033[0m' # No Color
 
 # Configuration
 ENVIRONMENT=${1:-staging}
-BACKEND_IMAGE=${BACKEND_IMAGE:-"gitlab.fit.cvut.cz:5050/karsayli/sp2/backend:main"}
-FRONTEND_IMAGE=${FRONTEND_IMAGE:-"gitlab.fit.cvut.cz:5050/karsayli/sp2/frontend:main"}
+
+BACKEND_IMAGE=${BACKEND_IMAGE:-"documind-backend:latest"}
+
+FRONTEND_IMAGE=${FRONTEND_IMAGE:-"documind-frontend:latest"}
 
 echo -e "${GREEN}=========================================="
 echo "Document Chatbot Deployment"

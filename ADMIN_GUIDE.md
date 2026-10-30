@@ -31,8 +31,8 @@ This guide provides comprehensive instructions for system administrators to inst
 
 1. **Clone the repository:**
    ```bash
-   git clone https://gitlab.fit.cvut.cz/karsayli/sp2.git
-   cd sp2
+   git clone https://github.com/vinay-guntreddy/DocuMind.git
+   cd DocuMind
    ```
 
 2. **Create environment file:**
@@ -101,8 +101,8 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
 
 **Example configuration:**
 ```env
-GOOGLE_API_KEY=AIzaSy...
-OPENAI_API_KEY=sk-...
+GOOGLE_API_KEY=your-gemini-api-key
+OPENAI_API_KEY=
 HOST=0.0.0.0
 PORT=8000
 LOG_LEVEL=INFO
